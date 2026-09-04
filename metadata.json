@@ -1,0 +1,10 @@
+{
+  "name": "Remix NutriFit AI",
+  "description": "AI-Powered Nutrition \u0026 Fitness Tracker for Indian Cuisines \u0026 Workouts",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
